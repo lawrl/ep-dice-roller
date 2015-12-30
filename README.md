@@ -5,7 +5,7 @@
 The EP dice roller is a simple web app to help players and game masters of the a roleplaying game [*Eclipse Phase*](http://eclipsephase.com) with common math and random number generation tasks, replacing a calculator and dice in most if not all cases. 
 
 ## (Planned) Features
- - Uses the [random.org](http://random.org) API to generate random numbers ni lieu of ten sided dice (d10's).
+ - Uses the [random.org](http://random.org) API to generate random numbers in lieu of ten sided dice (d10's).
    - Uses only one, separate function to actually call the API and return results in batches.
  - The user will see all raw dice rolls alongside the calculated results.
  - An Intuitive UI
